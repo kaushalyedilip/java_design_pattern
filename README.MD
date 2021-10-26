@@ -6,7 +6,7 @@
 - Removes the burden from client to Factory 
 - Easy to extend
 
-####JDK Example
+#### JDK Example
 - Calendar class createCalendar() method
 - NumberFormat getInstance() method
 
@@ -19,7 +19,3 @@
 - Loosely coupled code
 - Removes the burden from client to factory
 - Easy to extend
-
-####JDK Example
-- Calendar class createCalendar() method
-- NumberFormat getInstance() method
